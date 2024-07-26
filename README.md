@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Srimithra Bingi
+#  Srimithra Bingi
 
 **`Software Engineer (Developer/Data Scientist/Machine Learning Engineer)`**
 
