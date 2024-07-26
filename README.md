@@ -2,7 +2,7 @@
 
 **`Software Engineer (Developer/Data Scientist/Machine Learning Engineer)`**
 
-I'm a Full-stack Software engineer, Data scientist and Machine learning engineer, building my projects for the digital world one step at a time. All projects displayed here are built from the ground up or are built on existing projects, from planning and designing all the way to solving real-life problems with code.
+I'm a Full-stack Software engineer, a Data scientist and a Machine learning engineer, building my projects for the digital world one step at a time. All projects displayed here are built from the ground up or are built on existing projects, from planning and designing all the way to solving real-life problems with code. A daily life filled with finding hidden patterns, uncovering counter-intuitive facts in data, building models, and creating applications.
 
 ---
 
